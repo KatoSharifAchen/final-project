@@ -5,15 +5,15 @@ function Home(){
     return(
     <div>
         <Title heading ="MAKERERE BLOG" />
-        <Contents details=" this is a very nice blog"/>
+        <Contents details=" This is a very nice blog"/>
         <br/>
 
         <Title heading ="UGANDA MARTYRS BLOG" />
-        <Contents details=" this is a very nice blog"/>
+        <Contents details=" This is a very nice blog"/>
         <br/>
 
         <Title heading ="UGANDA CHRISTIAN UNIVERSITY BLOG" />
-        <Contents details=" this is a very nice blog"/>
+        <Contents details=" This is a very nice blog"/>
         <br/>
     </div>
     );
